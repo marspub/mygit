@@ -1,2 +1,2 @@
 # gitest
-**gitest** is a 
+**gitest** is a test 
